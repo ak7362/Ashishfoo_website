@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    
+}
+body{
+    background:linear-gradient(45deg,limegreen,coral,limegreen);
+    
+}
+#header{
+    background-color: black;
+    height: 70px;  
+}
+#brand{
+    color:cornsilk;
+    text-align: center;
+    width:40%;
+    float:left;
+    line-height: 70px;   
+}
+#nav{
+    width:60%;
+    float: right;
+    text-align: center;
+    ;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    line-height: 70px;
+}
+#title{
+     text-align: center;
+     margin-top: 50px;
+}
+#pizza{
+    text-align: center;
+    margin-top: 20px;
+}
+#dp{
+    background:linear-gradient(45deg,darkred,black);
+    padding: 10px;
+    width: 40%;
+    margin: 10px auto;
+    border-radius:50%;
+    color:white;   
+}
+table{
+    width: 100%;
+}
+td{
+    text-align: center;
+    font-family: cursive;
+}
+#p1{
+    display: block;
+    margin: 20px;
+    margin-block-start: lem;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+    margin-inline-end: 0px;
+}
+#h3{
+    background:linear-gradient(45deg,darkred,black);
+    color:white;
+    width:40%;
+    border-radius: 50%;
+    text-align: center;
+    padding: 10px;
+    margin: 10px auto;
+}
+#p2{
+    margin: 20px 130px;
+}
+img{
+    border-radius: 20px;
+}
+#footer{
+    margin-top: 40px;
+    background: black;
+    /* height: 80px; */
+    padding: 20px;
+    color:white;
+}
+#h4{
+    text-align: center;
+}
+#pi{
+    float:inline-end;
+}
+#cold{
+    background:linear-gradient(45deg, darkred,black);
+    width: 40%;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    color:white;
+    border-radius: 50%;
+}
+#icon{
+    text-align: center;
+    margin: 0px auto;
+
+}
+#d1{
+    margin: 0;
+}
